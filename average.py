@@ -1,7 +1,7 @@
 students = [
-    {"name": "Alice", "grades": [85, 90, 78]},
-    {"name": "Bob", "grades": [88, 92, 80]},
-    {"name": "Charlie", "grades": [95, 85, 82]},
+    {"name": "Alice", "grades": [95, 90, 96]},
+    {"name": "Bob", "grades": [80, 99, 100]},
+    {"name": "Charlie", "grades": [100, 77, 96]},
 ]
 
 # Function to calculate average grade
